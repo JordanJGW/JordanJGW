@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JordanJGW
+- 👋 Hi, I’m Jordan Wong
 - 👀 I’m interested in food and sports.
 - 🌱 I’m currently learning as much as a possibility can
 - 💞️ I’m looking to collaborate on process improvements
